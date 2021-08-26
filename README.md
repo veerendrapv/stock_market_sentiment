@@ -1,10 +1,10 @@
-# ** Stock-Sentiment-Analysis **
+# Stock-Sentiment-Analysis 
 
-`CountVectorizer + Random Forest`
+**CountVectorizer + Random Forest**
 
-**` Word2vec + Random Forest`**
+` Word2vec + Random Forest`
 
-**` _Bert_ Tokenizer `**
+**_Bert_ Tokenizer**
 
-*** here you will find small dataset and implementation for above models ***
+***here you will find small dataset and implementation for above models***
 
